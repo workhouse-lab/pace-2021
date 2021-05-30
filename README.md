@@ -10,4 +10,6 @@ Please use the "make" command.
 ## Example usage
 The input and output formats follow PACE.
 
+```
 ./SatoxaSolver < input.gr
+```
