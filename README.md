@@ -1,5 +1,5 @@
 # Solver for Cluster Editing
-This is a submission by user "Satoxa" for the exact track of PACE 2021 challenge.
+This is a submission by user "Satoxa" for the exact track of [PACE 2021](https://pacechallenge.org/2021/) challenge.
 
 ## Requirement
 - g++ 5.4.0 or greater
