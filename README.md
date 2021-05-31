@@ -4,10 +4,10 @@ This is a submission by user "Satoxa" for the exact track of [PACE 2021](https:/
 ## Requirement
 - g++ 5.4.0 or greater
 
-## Install
+## Compilation
 Please use the "make" command.
 
-## Example usage
+## Usage
 The input and output formats follow PACE.
 
 ```
